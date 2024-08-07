@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aquatic-x
 - 👀 I’m interested in Coding and all things technology
-- 🌱 I’m currently learning how to code better in Python and Javascript
+- 🌱 I’m currently learning how to code better in Java,and Javascript
 - 💞️ I’m looking to collaborate on any project that I have expertise on.
 - 📫 You can reach me via my email : pareekishaan@gmail.com
 
